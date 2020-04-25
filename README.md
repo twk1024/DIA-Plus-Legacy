@@ -6,6 +6,11 @@
 
 # ENGLISH (영어)
 
+## Currently Supporting
+
+- Minecraft Becrock Edition v1.14.60 (Protocol Version 390)
+- Full Functions of PMMP
+
 ## Getting started
 - [Documentation](http://pmmp.readthedocs.org/)
 - [Installation instructions](https://pmmp.readthedocs.io/en/rtfd/installation.html)
@@ -32,6 +37,11 @@ pmmp/PocketMine are not affiliated with Mojang. All brands and trademarks belong
 
   # 한국어 (Korean)
   <b>다양한 기능의 PocketMine-MP 기반 마인크래프트 베드락 에디션 서버 소프트웨어입니다</b> by 도끼다이아
+
+## 지원되는 항목
+
+- 마인크래프트BE 1.14.60 (프로토콜 390)
+- PMMP의 모든 기능 호환
 
 ## 시작하기
 - [관련 문서](http://pmmp.readthedocs.org/)

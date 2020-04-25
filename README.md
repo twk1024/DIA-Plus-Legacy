@@ -1,8 +1,10 @@
 <p align="center">
 	<a href="https://minewd.kro.kr"><img src="http://minewd.kro.kr/img/logo.png"></img></a><br>
-  # ENGLISH (영어)
+
   <b>Amazing performance open source server software for Minecraft Bedrock Edition</b> based on PocketMine-MP
 </p>
+
+# ENGLISH (영어)
 
 ## Getting started
 - [Documentation](http://pmmp.readthedocs.org/)

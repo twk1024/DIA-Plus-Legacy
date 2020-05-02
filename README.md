@@ -9,7 +9,12 @@
 ## Currently Supporting
 
 - Minecraft Becrock Edition v1.14.60 (Protocol Version 390)
-- Full Functions of PMMP
+- Compatible with Full Functions of PMMP
+
+## What's difference with PocketMien-MP
+
+- More Korean Language Support
+- Blocks which are not existing in PMMP now
 
 ## Getting started
 - [Documentation](http://pmmp.readthedocs.org/)
@@ -42,6 +47,11 @@ pmmp/PocketMine are not affiliated with Mojang. All brands and trademarks belong
 
 - 마인크래프트BE 1.14.60 (프로토콜 390)
 - PMMP의 모든 기능 호환
+
+## PocketMine-MP와의 차이점
+
+- 더 많고, 자연스러운 한국어 번역
+- 현재 PMMP에는 존재하지 않는 일부 바닐라 블럭들 추가
 
 ## 시작하기
 - [관련 문서](http://pmmp.readthedocs.org/)

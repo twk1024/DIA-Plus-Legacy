@@ -33,6 +33,6 @@ if(defined('pocketmine\_VERSION_INFO_INCLUDED')){
 const _VERSION_INFO_INCLUDED = true;
 
 const NAME = "DIA-Plus";
-const BASE_VERSION = "3.12.1";
+const BASE_VERSION = "3.12.2";
 const IS_DEVELOPMENT_BUILD = false;
-const BUILD_NUMBER = 1793;
+const BUILD_NUMBER = 1794;
